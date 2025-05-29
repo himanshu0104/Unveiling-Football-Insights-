@@ -26,6 +26,8 @@ Goals, assists, passes, and more
 Features & Highlights:
 ⚽ Match Overview Dashboard: Displays match outcomes, key metrics, and team comparisons.
 
+
+
 📊 Player Performance Analysis: Drill down into individual player stats like goals, assists, passes, and more.
 
 🔍 Team Comparison View: Compare team performance across various metrics including possession, shots, and fouls.
@@ -38,3 +40,4 @@ Features & Highlights:
 
 📈 Dynamic Visuals: Charts, heat maps, and bar graphs bring clarity to complex data points.
 
+Dashboard:https://github.com/himanshu0104/Unveiling-Football-Insights-/blob/main/Screenshot%20(151).png
